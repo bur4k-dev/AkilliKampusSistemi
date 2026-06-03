@@ -1,3 +1,8 @@
+## 🎥 Ödev Sunum Videosu
+👉 [Proje Sunum ve Detay Anlatım Videosunu İzlemek İçin Tıklayın](https://drive.google.com/file/d/1eL22rTj6W7Xtpzfc4L9rkOU6ihRUyYDb/view?usp=sharing)
+
+
+
 # 🏛️ Akıllı Kampüs Duyuru ve Bildirim Yönetim Sistemi
 
 Bu proje, **BİL 3204 Yazılım Mimari ve Tasarımı** dersi final ödevi kapsamında geliştirilmiştir. Sistem, bir üniversite kampüsündeki farklı duyuru türlerini (Sınav, Yemekhane vb.) merkezi bir fabrikadan üreterek, sisteme abone olan kullanıcılara (Öğrenci, Öğretmen) kendi tercih ettikleri bildirim kanalları (E-posta, SMS, Mobil Bildirim) üzerinden dinamik olarak ulaştıran **Katmanlı Mimari (4-Layer Architecture)** tabanlı bir .NET Core uygulamasıdır.
