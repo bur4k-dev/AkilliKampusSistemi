@@ -1,0 +1,17 @@
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Infrastructure.deps.json
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Application.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Domain.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Domain.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\bin\Debug\net8.0\AkilliKampusSistemi.Application.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKa.D0A73797.Up2Date
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\refint\AkilliKampusSistemi.Infrastructure.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\AkilliKampusSistemi.Infrastructure.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Infrastructure\obj\Debug\net8.0\ref\AkilliKampusSistemi.Infrastructure.dll

@@ -1,0 +1,56 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AkilliKampusSistemi.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AkilliKampusSistemi.Application": "1.0.0",
+          "AkilliKampusSistemi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AkilliKampusSistemi.Infrastructure.dll": {}
+        }
+      },
+      "AkilliKampusSistemi.Application/1.0.0": {
+        "dependencies": {
+          "AkilliKampusSistemi.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AkilliKampusSistemi.Application.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "AkilliKampusSistemi.Domain/1.0.0": {
+        "runtime": {
+          "AkilliKampusSistemi.Domain.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AkilliKampusSistemi.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AkilliKampusSistemi.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AkilliKampusSistemi.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

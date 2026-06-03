@@ -1,0 +1,15 @@
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\bin\Debug\net8.0\AkilliKampusSistemi.Application.deps.json
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\bin\Debug\net8.0\AkilliKampusSistemi.Application.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\bin\Debug\net8.0\AkilliKampusSistemi.Application.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\bin\Debug\net8.0\AkilliKampusSistemi.Domain.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\bin\Debug\net8.0\AkilliKampusSistemi.Domain.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.csproj.AssemblyReference.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.AssemblyInfoInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.AssemblyInfo.cs
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.csproj.CoreCompileInputs.cache
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKa.DD8313B2.Up2Date
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\refint\AkilliKampusSistemi.Application.dll
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\AkilliKampusSistemi.Application.pdb
+C:\Users\LENOVO\Desktop\Yeni klasör\AkilliKampusSistemi.Application\obj\Debug\net8.0\ref\AkilliKampusSistemi.Application.dll
